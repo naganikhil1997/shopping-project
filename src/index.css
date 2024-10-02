@@ -1,0 +1,20 @@
+#root{
+  position: relative;
+  top: 50px;
+}
+
+
+.right{
+
+  top: 50%;
+  position: absolute;
+  left: 48%;
+
+}
+
+
+.left{
+  position: absolute;
+  top: 50%;
+  left: -29px;
+}
